@@ -1,0 +1,57 @@
+body{
+    background: white;
+    padding: 0;
+    margin-top: 0;
+}
+#mainContainerTagline{
+    height: 600px;
+    background-image: url(../img/bg.jpg);
+    background-size: 100% 600px;
+    width: auto;
+}
+
+#firstStripe {
+    background-color: white; 
+    height: 140px; 
+    width: 90%;
+    opacity: 0.8;
+margin-top: 90px;
+}
+
+#fisrtStripeFont{
+    
+    font-family: 'Roboto', sans-serif;
+    font-size: 110px;
+  
+
+}
+#secondStripe {
+    background-color: white; 
+    height: 80px; 
+    width: 190%;
+    opacity: 0.8;
+}
+
+#secondStripeFont{
+    
+    
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+
+}
+
+#mainContainerService {
+    height: 600px;
+    background-color: white;
+    width: auto;
+}
+
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-color: white
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
